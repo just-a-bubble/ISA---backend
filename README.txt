@@ -38,4 +38,7 @@ API dokumentacije bo dosegljiva na http://localhost:8080/api/docs
 1. Prepričaj se, da imaš nameščen Flutter SDK
 2. Odprite terminal v mapi recepti_app
 3. Generirajte APK za Android z ukazom: flutter build apk --release
+
 4. APK datoteko prenesite na telefon in jo namestite
+
+!!!!!Že pripravljena apk datoteka, ki se jo lahko prenese na telefon in instalira, se nahaja v recepti_app\build\app\outputs\flutter-apk\app-release.apk
