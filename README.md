@@ -1,1 +1,0 @@
-Preberi datoteko README.txt
