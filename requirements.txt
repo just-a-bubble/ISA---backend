@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+aiofiles
+python-multipart
+passlib[argon2]
+pydantic
