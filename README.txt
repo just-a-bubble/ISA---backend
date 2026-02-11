@@ -10,7 +10,7 @@ I  nginx/
 I   - default.conf
 I
 I  recepti_app/
-I   – Flutter aplikacija (vse kar je v "ISA---recepti_app-flutter" repozitoriju)
+I   – Flutter aplikacija (vse kar je v "SEMINAR---recepti_app-flutter" repozitoriju)
 I
 I  docker-compose.yml  (definicija storitev)
 I
@@ -42,3 +42,4 @@ API dokumentacije bo dosegljiva na http://localhost:8080/api/docs
 4. APK datoteko prenesite na telefon in jo namestite
 
 !!!!!Že pripravljena apk datoteka, ki se jo lahko prenese na telefon in instalira, se nahaja v recepti_app\build\app\outputs\flutter-apk\app-release.apk
+
